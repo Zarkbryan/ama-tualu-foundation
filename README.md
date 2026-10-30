@@ -31,7 +31,7 @@ The **AMA-TUALU FOUNDATION** is dedicated to unlocking the limitless potential o
 - **JavaScript (ES6)** for Interactivity (Mobile Menu, Scroll Observers, Custom Modals)
 
 ##  Development
-This website was built and is maintained by **EGABO AARON AT RENOA**.
+This website was built by **EGABO AARON AT RENOA** and updated and maintained by **ALORO ISAAC BRIAN**.
 
 ---
 
