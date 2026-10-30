@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Ama-Tualu-Logo.png" alt="AMA-TUALU Foundation Logo" width="300" />
+  <img src="assets/images/Ama-Tualu-Logo.png" alt="AMA-TUALU Foundation Logo" width="300" />
 
   # AMA-TUALU FOUNDATION
   **"We Are Together"**
